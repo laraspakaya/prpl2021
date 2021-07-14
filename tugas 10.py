@@ -49,9 +49,9 @@ class Age{
 }
 
 $data = [
-    'nama' => 'FadelNurAkhmad', 
-    'email' => 'fadel1900018237@webmail.uad.ac.id',
-    'dob' => '17.1.2000'
+    'nama' => 'Larassaty Chandra Pakaya', 
+    'email' => 'larassaty1900018216@webmail.uad.ac.id',
+    'dob' => '21.08.2001'
 ];
 
 UserRequest::validate($data);
